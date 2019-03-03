@@ -18,3 +18,10 @@ Compose works in all environments: production, staging, development, testing, as
 
 3. Run `docker-compose` up and Compose starts and runs your entire app.
 
+## Docker Compose Commands for Managing the Whole Lifecycle of an Application
+
+- Start, stop, and rebuild services
+- View the status of running services
+- Stream the log output of running services
+- Run a one-off command on a service
+
