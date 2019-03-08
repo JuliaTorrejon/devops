@@ -29,5 +29,5 @@ services:
       # @see https://phabricator.wikimedia.org/source/mediawiki/browse/master/includes/DefaultSettings.php
       MYSQL_DATABASE: my_wiki
       MYSQL_USER: admin
-      MYSQL_PASSWORD: secret
+      MYSQL_PASSWORD: secret-secret
       MYSQL_ROOT_PASSWORD: password
